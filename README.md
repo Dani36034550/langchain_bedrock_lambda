@@ -110,12 +110,13 @@ curl -X POST \
 ✅ Infrastructure as Code via SAM
 ✅ Docker-based Lambda = portable, production-ready
 
-🚀 Use this repo to showcase:
 
-GenAI engineering
+🚀 This repository showcases:
 
-AWS serverless mastery
+Generative AI engineering
 
-Enterprise deployment patterns
+AWS serverless architecture expertise
 
-RAG expertise (Bedrock + LangChain + Pinecone)
+Enterprise-grade deployment patterns
+
+RAG implementation with Bedrock + Pinecone
