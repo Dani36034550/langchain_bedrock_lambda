@@ -1,0 +1,13 @@
+version = 0.1
+
+[default.deploy.parameters]
+stack_name = "genailambdasam"
+resolve_s3 = true
+s3_prefix = "genailambdasam"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+image_repositories = ["GenAILambda=116672474948.dkr.ecr.us-east-1.amazonaws.com/genailambdasam8764ac70/genailambdae6153901repo"]
+
+[default.global.parameters]
+region = "us-east-1"

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+docker-cache/
+.aws-sam/
+.cache/
+dist/
+build/
+*.tar
+
+# SAM build artifacts
+.aws-sam/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Virtualenv / dependencies
+.env/
+.venv/
+*.egg-info/

@@ -1,0 +1,47 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: Enterprise GenAI Lambda (Bedrock + Pinecone)
+
+Resources:
+  GenAILambda:
+    Type: AWS::Serverless::Function
+    Properties:
+      PackageType: Image
+      Timeout: 60
+      MemorySize: 2048
+      Architectures:
+        - x86_64
+
+      Environment:
+        Variables:
+          PINECONE_API_KEY: "{{resolve:secretsmanager:pinecone/api:SecretString:PINECONE_API_KEY}}"
+
+      Policies:
+        - AWSLambdaBasicExecutionRole
+        
+        # ✅ Minimum permission to use Bedrock models (more secure than AmazonBedrockFullAccess)
+        - Statement:
+            Effect: Allow
+            Action:
+              - bedrock:InvokeModel
+              - bedrock:InvokeModelWithResponseStream
+            Resource: "*"
+
+        # ✅ Allow Lambda to read Pinecone key from Secrets Manager
+        - Statement:
+            Effect: Allow
+            Action:
+              - secretsmanager:GetSecretValue
+            Resource: "*"
+
+      Events:
+        ApiGateway:
+          Type: Api
+          Properties:
+            Path: /query
+            Method: post
+
+    Metadata:
+      DockerTag: latest
+      DockerContext: .
+      Dockerfile: Dockerfile

@@ -1,0 +1,229 @@
+Pharmacy Mobile App Development
+Complete Cost Breakdown & Technical Specifications
+Generated on: July 22, 2025
+📋 Project Overview
+Platform:
+Cross-platform mobile app (Android/iOS) similar to Tata 1mg
+Technology Stack:
+.NET 8 Backend API, MSSQL Database, AWS Cloud Hosting
+Total Estimated Cost:
+₹41,72,000 - ₹64,30,000
+Phase 1: Requirement Gathering
+Duration:
+2-3 weeks
+Activities Include:
+Business analysis and stakeholder interviews
+Technical specifications and architecture planning
+Compliance requirements (FDA, local pharmacy regulations)
+Feature documentation and user stories
+Integration requirements with existing systems
+Resource
+Cost Range
+Business Analyst
+₹80,000 - ₹1,50,000
+Technical Architect
+₹60,000 - ₹1,00,000
+Documentation & Planning
+₹30,000 - ₹50,000
+Total Requirement Gathering
+₹1,70,000 - ₹3,00,000
+7/22/25, 4:07 PM Pharmacy App Development - Cost Breakdown
+file:///C:/Users/User/Downloads/pharmacy_app_cost_pdf.html 1/8
+Phase 2: UI/UX Design
+Duration:
+3-4 weeks
+Design Deliverables:
+User research and persona development
+Information architecture and user journey mapping
+Wireframes and interactive prototypes
+Visual design and branding elements
+Design system and component library
+Mobile-responsive design for all screen sizes
+Design Component
+Cost Range
+UI/UX Designer (Senior)
+₹2,50,000 - ₹4,50,000
+Design Tools & Assets
+₹15,000 - ₹25,000
+User Testing & Research
+₹25,000 - ₹40,000
+Total UI/UX Design
+₹2,90,000 - ₹5,15,000
+Phase 3: Backend API Development (.NET 8 + MSSQL)
+Duration:
+8-12 weeks
+Backend Features:
+RESTful API development with .NET 8
+MSSQL database design and optimization
+User authentication and authorization (JWT)
+Medicine catalog and inventory management
+Order processing and payment integration
+Prescription verification system
+Real-time notifications and messaging
+7/22/25, 4:07 PM Pharmacy App Development - Cost Breakdown
+file:///C:/Users/User/Downloads/pharmacy_app_cost_pdf.html 2/8
+Admin panel for pharmacy management
+Analytics and reporting modules
+Development Resource
+Cost Range
+Senior .NET Developer
+₹8,00,000 - ₹12,00,000
+Database Developer
+₹3,50,000 - ₹5,50,000
+DevOps Engineer
+₹2,50,000 - ₹4,00,000
+QA Engineer
+₹2,00,000 - ₹3,50,000
+Third-party Integrations
+₹1,00,000 - ₹2,00,000
+Security Implementation
+₹75,000 - ₹1,25,000
+API Documentation
+₹25,000 - ₹50,000
+Total Backend Development
+₹18,00,000 - ₹28,75,000
+7/22/25, 4:07 PM Pharmacy App Development - Cost Breakdown
+file:///C:/Users/User/Downloads/pharmacy_app_cost_pdf.html 3/8
+Phase 4: AWS Hosting & Database Infrastructure
+Initial Setup Costs
+Setup Component
+Cost Range
+AWS Architecture Design
+₹50,000 - ₹1,00,000
+Infrastructure Setup & Configuration
+₹75,000 - ₹1,25,000
+SSL Certificates
+₹8,000 - ₹15,000
+Domain Registration
+₹2,000 - ₹5,000
+Monthly AWS Hosting Costs
+⚠️
+Development Environment (Monthly)
+EC2 Instances (t3.medium x2): ₹8,500
+RDS SQL Server (db.t3.small): ₹12,000
+Load Balancer: ₹2,500
+S3 Storage (100GB): ₹500
+CloudFront CDN: ₹1,000
+Monitoring & Backup: ₹2,000
+Total Dev Environment: ₹26,500/month
+🚀 Production Environment (Monthly)
+EC2 Instances (t3.large x2): ₹17,000
+RDS SQL Server (db.t3.medium): ₹25,000
+Load Balancer: ₹2,500
+S3 Storage (500GB): ₹2,500
+CloudFront CDN: ₹3,000
+Backup & Monitoring: ₹4,000
+Data Transfer: ₹3,000
+Total Production: ₹57,000/month
+7/22/25, 4:07 PM Pharmacy App Development - Cost Breakdown
+file:///C:/Users/User/Downloads/pharmacy_app_cost_pdf.html 4/8
+AWS Cost Component
+First Year Cost
+Initial Setup
+₹1,35,000 - ₹2,45,000
+Monthly Hosting (Dev + Prod)
+₹83,500/month
+Total First Year AWS
+₹11,37,000 - ₹14,90,000
+7/22/25, 4:07 PM Pharmacy App Development - Cost Breakdown
+file:///C:/Users/User/Downloads/pharmacy_app_cost_pdf.html 5/8
+Additional Project Costs
+Additional Component
+Cost Range
+Project Manager
+₹3,00,000 - ₹5,00,000
+Manual Testing
+₹1,50,000 - ₹2,50,000
+Automated Testing Setup
+₹1,00,000 - ₹1,75,000
+Performance Testing
+₹75,000 - ₹1,25,000
+Security Audit
+₹1,00,000 - ₹2,00,000
+Compliance Documentation
+₹50,000 - ₹1,00,000
+Total Additional Costs
+₹7,75,000 - ₹12,50,000
+📊 Complete Cost Summary
+Phase
+Minimum Cost
+Maximum Cost
+Requirement Gathering
+₹1,70,000
+₹3,00,000
+UI/UX Design
+₹2,90,000
+₹5,15,000
+Backend Development
+₹18,00,000
+₹28,75,000
+AWS Setup & First Year
+₹11,37,000
+₹14,90,000
+Additional Costs
+₹7,75,000
+₹12,50,000
+TOTAL PROJECT COST
+₹41,72,000
+₹64,30,000
+💡 Cost Optimization Strategies
+Optimized Budget Range: ₹32,00,000 - ₹48,00,000
+Reserved AWS Instances:
+30-40% savings with 1-year commitment
+7/22/25, 4:07 PM Pharmacy App Development - Cost Breakdown
+file:///C:/Users/User/Downloads/pharmacy_app_cost_pdf.html 6/8
+Phased Development:
+Start with MVP, add features iteratively
+Offshore Development:
+Mix senior and junior resources strategically
+Open Source Tools:
+Utilize free monitoring and development tools
+Smaller Initial Infrastructure:
+Scale up based on actual usage
+🔄 Monthly Operational Costs (Post-Launch)
+Operational Component
+Monthly Cost Range
+AWS Hosting
+₹57,000 - ₹75,000
+Maintenance & Support
+₹1,50,000 - ₹2,50,000
+Feature Updates
+₹1,00,000 - ₹2,00,000
+Third-party Services
+₹25,000 - ₹50,000
+Total Monthly Operations
+₹3,32,000 - ₹5,75,000
+🔌 Integration & Gateway Costs
+Integration Service
+Setup Cost
+Razorpay/PayU Payment Gateway
+₹25,000 - ₹50,000
+SMS Gateway Integration
+₹15,000 - ₹25,000
+Push Notification Service
+₹10,000 - ₹20,000
+⚠️
+Important Notes
+All costs are based on current Indian market rates as of July 2025
+AWS costs may vary based on actual usage and regional pricing
+Final costs depend on specific requirements and chosen service levels
+Consider additional compliance costs for pharmaceutical regulations
+Payment gateway charges are typically 2-3% per transaction
+7/22/25, 4:07 PM Pharmacy App Development - Cost Breakdown
+file:///C:/Users/User/Downloads/pharmacy_app_cost_pdf.html 7/8
+Budget 15-20% additional for contingencies and scope changes
+📋 Project Timeline Summary
+Total Development Duration:
+16-22 weeks (4-5.5 months)
+Requirement Gathering:
+2-3 weeks
+UI/UX Design:
+3-4 weeks
+Backend Development:
+8-12 weeks
+Testing & Deployment:
+3-4 weeks
+This document provides estimated costs for pharmacy app development with .NET 8 backend and AWS hosting.
+Generated on July 22, 2025 | All costs are in Indian Rupees (₹)
+7/22/25, 4:07 PM Pharmacy App Development - Cost Breakdown
+file:///C:/Users/User/Downloads/pharmacy_app_cost_pdf.html 8/8
